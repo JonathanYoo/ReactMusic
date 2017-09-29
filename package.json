@@ -20,5 +20,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http:jerofree.github.io/ReactMusic"
+  "homepage": "https://github.com/jerofree/ReactMusic"
 }
